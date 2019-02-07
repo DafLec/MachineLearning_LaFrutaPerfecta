@@ -1,4 +1,6 @@
 # MachineLearning_LaFrutaPerfecta
+## El proyecto completo se puede encontrar en
+https://tecmx-my.sharepoint.com/:f:/g/personal/a01334365_itesm_mx/Em1s4qQ4KwFOrNXHCr01UcgB3bzg8WGdI_pCyzLcc9d5UA
 ## Conclusión
 
 Este proyecto busca ayudar a identificar las mejores frutas a través de imágenes. Está pensado tanto para casos individuales como usuarios que quieran analizar las frutas antes de consumirlas como para el análisis de grandes volúmenes de imágenes que ayuden a negocios como supermercados, restaurantes o agricultores a categorizar la fruta.Para ello, el usuario tomará una fotografía y posteriormente nuestro modelo de aprendizaje automático le indicará si se encuentra en buen estado o no.
